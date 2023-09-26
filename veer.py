@@ -1,3 +1,3 @@
 print("alone")
 print("take care")
-print("meri jaan")
+print("meri maa")
